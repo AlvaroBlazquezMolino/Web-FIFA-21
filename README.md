@@ -1,4 +1,4 @@
-# SPANISH
+# SPANISH TUTORIAL
 
 # Web FIFA 21
 Proyecto web realizado para trabajar con una base de datos de FIFA 21.
@@ -333,7 +333,7 @@ especialmente la carpeta `img`, ya que el HTML utiliza rutas relativas
 para cargar las imágenes.
 
 
-# ENGLISH
+# ENGLISH TUTORIAL
 
 # Web FIFA 21
 
